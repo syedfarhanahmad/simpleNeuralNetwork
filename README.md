@@ -1,8 +1,8 @@
 # Neural Network in Python
 ## (Created from scratch without using TensorFlow)
 
-The technique of BackPropagation is being used.
-Sigmoid normalization Function Used.
+The technique of BackPropagation and 
+Sigmoid normalization Function have been Used.
 
 ## Training Set
 
