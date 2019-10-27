@@ -1,5 +1,5 @@
 # Neural Network in Python
-## (Created from scratch without using TensorFlow)
+## (Created from scratch without using TensorFlow with basic Numpy and some math.)
 
 BackPropagation Technique and Sigmoid normalization Function have been used.
 
